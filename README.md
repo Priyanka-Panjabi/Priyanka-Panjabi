@@ -1,6 +1,6 @@
 ### Hi there 👋
 Software Developer, a learner .
-- 🔭 Hey I am Priyanka Panjabi.I’m currently working on Full Stack Web Deveoplment.
+- 🔭 Hey I am Priyanka Panjabi.I’m currently working on Full Stack Web Deveoplment .
 - 📫 You can drop me an email on priyanka.panjabi@gmail.com or ping me on https://www.linkedin.com/in/priyanka-panjabi-84496112b
 <!--
 **Priyanka-Panjabi/Priyanka-Panjabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
