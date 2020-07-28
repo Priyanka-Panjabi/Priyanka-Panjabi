@@ -1,5 +1,5 @@
 ### Hi People 👋
-Software Developer
+Dawning various hats, as a Software Developer
 - 🔭 Hey I am Priyanka Panjabi.I’m currently working on Full Stack Web Deveoplment.
 - 🌱 I’m currently acquiring knowledge on MERN Stack Development. 
 
