@@ -1,4 +1,4 @@
-### Hi People 👋 <img width="70" height="50" align=center src="https://cdn.dribbble.com/users/1018278/screenshots/3870893/hello_world.gif"></img> 
+### Hi People 👋 <img width="90" height="70" align=center src="https://cdn.dribbble.com/users/1018278/screenshots/3870893/hello_world.gif"></img> 
 <!-- ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif) -->
 I am Priyanka Panjabi.
  <img align="right" alt="GIF" height=160 width=180 marginTop=1% src="https://www.mutualofamerica.com/Articles2/Money/201811/girl_coder.jpg" />
