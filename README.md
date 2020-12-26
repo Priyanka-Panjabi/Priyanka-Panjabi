@@ -9,5 +9,5 @@ I am Priyanka Panjabi.
 Let's talk<br>
 
 <img width="24" height="18" align=left src="https://thumbs.gfycat.com/CompetentElderlyGemsbuck-small.gif"></img> 
-You can drop me an email on priyanka.panjabi@gmail.com <br>
+You can drop me an email on priyanka.panjabi88@gmail.com <br>
 <img width="24" height="18" align=left src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif"></img>Ping me on https://www.linkedin.com/in/priyanka-panjabi-84496112b.
