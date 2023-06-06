@@ -2,7 +2,7 @@
 <!-- ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif) -->
 I am Priyanka Panjabi.
  <img align="right" alt="GIF" height=160 width=180 marginTop=1% src="https://www.mutualofamerica.com/Articles2/Money/201811/girl_coder.jpg" />
-- 🔭 Dawning various hats, as a Software Developer at Reliance Jio Infocomm. Ltd.
+- 🔭 Dawning various hats, as a Software Developer at Wipro Ltd.
 - 💻 I am currently working on Full Stack Web Development.
 - 🌱 Acquiring knowledge on MERN Stack Development. 
 <br>
