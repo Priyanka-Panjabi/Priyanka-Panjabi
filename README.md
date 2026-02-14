@@ -1,12 +1,45 @@
-### Hi People 👋 <img width="90" height="70" align=center src="https://cdn.dribbble.com/users/1018278/screenshots/3870893/hello_world.gif"></img> 
-<!-- ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif) -->
-I am Priyanka Panjabi.
-- 🔭 Dawning various hats, as a Software Developer at Wipro Ltd.
-- 💻 I am currently working on Full Stack Web Development.
-- 🌱 Acquiring knowledge on MERN Stack Development. 
-<br>
-Let's talk to discuss ideas or any of the topics or just to say hello.!<br>
+# Hey, I'm Priyanka! 👋
 
-<img width="24" height="18" align=left src="https://thumbs.gfycat.com/CompetentElderlyGemsbuck-small.gif"></img> 
-You can drop me an email on priyanka.panjabi88@gmail.com <br>
-<img width="24" height="18" align=left src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif"></img>Ping me on https://www.linkedin.com/in/priyanka-panjabi-84496112b.
+---
+
+I'm a senior frontend developer with 8 years of experience crafting performant web applications. My coding journey is driven by a love for building user experiences, and I'm particularly fond of the MERN stack.
+
+## About Me
+
+- 💻 Senior Frontend Developer with 8+ years of experience.
+- 🚀 Specialized in MERN stack development.
+- 📘 Currently deepening my TypeScript skills.
+- 🔧 Love building clean, scalable, and maintainable code — and absolutely crazy over agentic AI.
+- 🤖 AI-assisted development enthusiast using Claude Code and GitHub Copilot.
+- 🌐 You can find me on the web: [Priyanka Panjabi](https://www.linkedin.com/in/priyanka-panjabi/).
+
+## My Tech Stack
+
+---
+
+- Frontend: React, Next.js, TypeScript, HTML, CSS, Tailwind, GraphQL
+- Backend: Node.js, Express
+- Database: MongoDB
+- AI-Assisted Development: AI-driven Component Generation, Claude Code, GitHub Copilot
+- Version Control: Git
+
+## Current Focus
+
+---
+
+- Learning advanced TypeScript patterns with strict compiler configurations
+- Exploring full-stack type safety with Next.js and TypeScript
+- Building side projects to sharpen my skills
+
+## Let's Code Together
+
+---
+
+I'm always open to collaborating on interesting projects and discussing programming topics. Feel free to reach out to me if you'd like to pair program, exchange ideas, or just have a chat about code!
+
+## Get in Touch
+
+---
+- 💼 LinkedIn: [Priyanka Panjabi](https://www.linkedin.com/in/priyanka-panjabi/)
+
+Thanks for stopping by! Let's connect and code together. 🚀
