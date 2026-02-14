@@ -20,7 +20,7 @@ I'm a senior frontend developer with 8 years of experience crafting performant w
 - Frontend: React, Next.js, TypeScript, HTML, CSS, Tailwind, GraphQL
 - Backend: Node.js, Express
 - Database: MongoDB
-- AI-Assisted Development: AI-driven Component Generation, Claude Code, GitHub Copilot
+- AI-Assisted Development: AI-driven code Generation, Claude Code, GitHub Copilot
 - Version Control: Git
 
 ## Current Focus
